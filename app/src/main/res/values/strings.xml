@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bank</string>
+    <string name="make_sure_that_the_data_below_are_correct_before_proceeding_with_your_transcation">Make sure that the data below are correct before proceeding with your transcation.</string>
+</resources>
